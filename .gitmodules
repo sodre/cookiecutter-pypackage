@@ -1,0 +1,3 @@
+[submodule "{{cookiecutter.project_repo}}"]
+	path = {{cookiecutter.project_repo}}
+	url = git@github.com:sodre/ght-pypackage.git
